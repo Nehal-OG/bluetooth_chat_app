@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+flutter sdk : 3.22.3
+
+run fllutter pub get after pull
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
